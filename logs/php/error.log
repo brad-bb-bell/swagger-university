@@ -1,0 +1,11 @@
+[03-Apr-2025 02:51:20 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[03-Apr-2025 02:53:31 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[03-Apr-2025 02:54:15 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[03-Apr-2025 02:54:28 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[03-Apr-2025 03:07:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "index" in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php:6
+Stack trace:
+#0 /Users/bradbell/Local Sites/swagger-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/bradbell/Local Sites/swagger-university/app/public/wp-blog-header.php(19): require_once('/Users/bradbell...')
+#2 /Users/bradbell/Local Sites/swagger-university/app/public/index.php(17): require('/Users/bradbell...')
+#3 {main}
+  thrown in /Users/bradbell/Local Sites/swagger-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 6
